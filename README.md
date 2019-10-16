@@ -1,2 +1,2 @@
-# NTX-Suffler
-TV Suffler application (web-based and suited)
+# NTX-Prompter
+TV Prompter application (web-based and suited)
